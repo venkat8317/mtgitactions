@@ -1,1 +1,1 @@
-# mtgitactions
+# mygitactions
